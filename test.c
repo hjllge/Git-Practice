@@ -1,8 +1,12 @@
 #include <stdio.h>
 
 int main() {
-	char *str1 = "hello world! I'm branch1!";
-	char *str2 = "HELLO WORLD! I'm branch2!";
-	printf("%s\n", str);
+	char *str1 = "hello world 1";
+
+	char *str2 = "hello world 2";
+
+
+	printf("%s\n", str1);
+	printf("%s\n", str2);
 	return 0;
 }
